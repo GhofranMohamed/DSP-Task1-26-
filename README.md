@@ -11,7 +11,7 @@
 * Saving and downloading the signal as a CSV file to be used later
 
 ## Demos:
-### ![Upload and sample the singal ](https://drive.google.com/file/d/1TZdLIv8Wog1csK14bvVScK3gDgjzW6Ny/view?usp=sharing)
+### ![Upload and sample the singal ](UPload)
 ### ![Generate and sample the signal](https://drive.google.com/file/d/1z_UN7WC21U1vR-C5IDKslvdnSLS1_yI2/view?usp=sharing)
 ### ![Add a noise and maintain SNR](https://drive.google.com/file/d/1qbLuWIX_yWXvZHM--ryu0O1sx9S3Nyfy/view?usp=sharing)
 ### ![Aliasing of two singals](https://drive.google.com/file/d/1jyz-_uzxthxjIQokaZvhjeQ46SrSKEPZ/view?usp=sharing)
