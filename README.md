@@ -11,10 +11,10 @@
 * Saving and downloading the signal as a CSV file to be used later
 
 ## Demos:
-### ![Upload and sample the singal ](UPload)
-### ![Generate and sample the signal](https://drive.google.com/file/d/1z_UN7WC21U1vR-C5IDKslvdnSLS1_yI2/view?usp=sharing)
+### ![Upload and sample the singal ](Screen_Shots./Upload_signal.PNG)
+### ![Generate and sample the signal](Screen_Shots./Generate_signal.PNG)
 ### ![Add a noise and maintain SNR](Screen_Shots./Add_noise.PNG)
-### ![Aliasing of two singals](https://drive.google.com/file/d/1jyz-_uzxthxjIQokaZvhjeQ46SrSKEPZ/view?usp=sharing)
+### ![Aliasing of two singals](Screen_Shots./Aliasing.PNG)
 
 
 ## Run-App
