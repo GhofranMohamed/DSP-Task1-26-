@@ -13,7 +13,7 @@
 ## Demos:
 ### ![Upload and sample the singal ](UPload)
 ### ![Generate and sample the signal](https://drive.google.com/file/d/1z_UN7WC21U1vR-C5IDKslvdnSLS1_yI2/view?usp=sharing)
-### ![Add a noise and maintain SNR](https://drive.google.com/file/d/1qbLuWIX_yWXvZHM--ryu0O1sx9S3Nyfy/view?usp=sharing)
+### ![Add a noise and maintain SNR](Screen_Shots./Add_noise.PNG)
 ### ![Aliasing of two singals](https://drive.google.com/file/d/1jyz-_uzxthxjIQokaZvhjeQ46SrSKEPZ/view?usp=sharing)
 
 
